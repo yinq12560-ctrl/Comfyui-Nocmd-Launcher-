@@ -7,15 +7,15 @@
 文件  
 
 ComfyUI_windows_portable/  
-├── python_embeded/           # 便携版Python环境         # Portable Python environment  
-├── ComfyUI/                  # ComfyUI主程序            # ComfyUI main program  
-├── 启动监视器.bat            # 启动系统托盘监视器         # Launch System Tray Monitor (LaunchMonitor.bat)  
-├── 启动器.bat                # 启动ComfyUI服务           # Start ComfyUI Service (Launcher.bat)  
-├── 安装依赖.bat              # 安装监视器所需Python包     # Install Python Dependencies (InstallDeps.bat)  
-├── 检查状态.bat              # 检查ComfyUI运行状态        # Check ComfyUI Status (CheckStatus.bat)  
-├── 关闭器.bat                # 关闭ComfyUI服务           # Stop ComfyUI Service (StopService.bat)  
-├── 监视器.pyw                # 系统托盘监视器主程序       # System Tray Monitor Main Program (Monitor.pyw)  
-└── comfyui_monitor.log       # 监视器日志文件（自动生成） # Monitor log file (auto-generated)  
+├──python_embeded/           # 便携版Python环境         # Portable Python environment  
+├──ComfyUI/                  # ComfyUI主程序            # ComfyUI main program  
+├──启动监视器.bat            # 启动系统托盘监视器         # Launch System Tray Monitor (LaunchMonitor.bat)  
+├──启动器.bat                # 启动ComfyUI服务           # Start ComfyUI Service (Launcher.bat)  
+├──安装依赖.bat              # 安装监视器所需Python包     # Install Python Dependencies (InstallDeps.bat)  
+├──检查状态.bat              # 检查ComfyUI运行状态        # Check ComfyUI Status (CheckStatus.bat)  
+├──关闭器.bat                # 关闭ComfyUI服务           # Stop ComfyUI Service (StopService.bat)   
+├──监视器.pyw                # 系统托盘监视器主程序       # System Tray Monitor Main Program (Monitor.pyw)  
+└──comfyui_monitor.log       # 监视器日志文件（自动生成） # Monitor log file (auto-generated)  
 
 1. 启动监视器.bat ✅
 
