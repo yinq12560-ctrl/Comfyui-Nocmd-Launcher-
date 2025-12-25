@@ -12,7 +12,7 @@
 
 ComfyUI_windows_portable/  
 ├── python_embeded/           # 便携版Python环境         # Portable Python environment  
-├── ComfyUI/                  # ComfyUI主程序            # ComfyUI main program
+├── ComfyUI/                  # ComfyUI主程序            # ComfyUI main program  
 ├── 启动监视器.bat            # 启动系统托盘监视器         # Launch System Tray Monitor (LaunchMonitor.bat)  
 ├── 启动器.bat                # 启动ComfyUI服务           # Start ComfyUI Service (Launcher.bat)  
 ├── 安装依赖.bat              # 安装监视器所需Python包     # Install Python Dependencies (InstallDeps.bat)  
