@@ -4,6 +4,10 @@
 正常启动时，仅需启动 启动监控器.bat 即可。其他脚本功能均如其名。  
 全部文件复制到ComfyUI_windows_portable/ 目录下即可，脚本采用相对路径。  
 
+注意(Please note):  
+  开机后第一次启动需要较长时间等待，只要命令行正确弹出就是正在启动。这是隐藏命令行和这个软件本身导致的，无法避免。  
+  The first startup after powering on takes a relatively long time; as long as the command line appears correctly, it means the system is starting. This is caused by the hidden command line and the software itself, and cannot be avoided.
+
 文件  
 
 ComfyUI_windows_portable/  
